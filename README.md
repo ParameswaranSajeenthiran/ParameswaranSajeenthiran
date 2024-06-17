@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parameswaran Sajeenthiran
-- 👀 Machine leanring Enthuasiat and Backend Developer
+- 👀 Machine Learning Enthusiast and Backend Developer
 - 🌱 I’m currently purshing a Bsc (Hons) Computer Science and Engineering at University Of Moratuwa
-- 💞️ Worked as a intern and a Associate Softwar Developer at Senzmate IOT Intelligence  pvt Ltd
+- 💞️ Worked as an intern and an Associate Software Developer at Senzmate IoT Intelligence Pvt Ltd.
 - 📫 Email  psajeendran@gmail.com to rech me out 
 
 <!---
